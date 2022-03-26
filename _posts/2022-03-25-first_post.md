@@ -2,7 +2,7 @@
 layout: post
 title:  "집에 가고 싶다..."
 date:   2022-03-25 02:13:37 +0000
-categories: jekyll update
+categories: posts
 ---
 
-집에 가고 싶다... 집에 가고 싶어...
+테스트용 포스트
