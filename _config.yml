@@ -21,7 +21,7 @@
 title: 블로그
 #email: example@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  집에 가고 싶다...
+  이 또한 지나가리라
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
