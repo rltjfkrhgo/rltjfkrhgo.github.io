@@ -8,7 +8,7 @@ permalink: /about/
 
 Education
 - 부산대 정보컴퓨터공학부
-- 구덕고<span style="color:gray"><del>교 역사의 별이 되라↗!!</del></span>
+- 구덕고<span style="color:gray"><del>교 역사의 별☆이 되라↗!!</del></span>
 
 Experience
 - BoB 9기 보안제품개발 트랙
